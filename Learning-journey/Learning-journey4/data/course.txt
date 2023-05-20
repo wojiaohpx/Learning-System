@@ -1,0 +1,100 @@
+1,Probability and Statistics,Zhang Lin,48,3,4,compulsory
+1,Fundamentals of Western Law,Gavin Sutter,16,1,4,compulsory
+1,Digital Circuits and Logic Design,Hasanuzzaman Sagor,48,3,4,compulsory
+1,Java Programming Design,Kleomenis Katevas,64,4,4,compulsory
+1,Database,Paula Fonseca,56,3.5,4,compulsory
+1,Product Development and Marketing,Nickos Paltalidis,40,2.5,4,compulsory
+1,Academic Communication Skills,Chen Jing,32,2,4,compulsory
+1,Data Structure,Cheng Xiang,48,3,4,compulsory
+1,Ecological Civilization,Liu Yun,32,2,4,optional
+2,Probability and Statistics,Zhang Lin,48,3,4,compulsory
+2,Fundamentals of Western Law,Gavin Sutter,16,1,4,compulsory
+2,Digital Circuits and Logic Design,Hasanuzzaman Sagor,48,3,4,compulsory
+2,Java Programming Design,Kleomenis Katevas,64,4,4,compulsory
+2,Database,Paula Fonseca,56,3.5,4,compulsory
+2,Product Development and Marketing,Nickos Paltalidis,40,2.5,4,compulsory
+2,Academic Communication Skills,Chen Jing,32,2,4,compulsory
+2,Data Structure,Cheng Xiang,48,3,4,compulsory
+1,Cybersecurity,Michaela Macdonald,40,2.5,6,compulsory
+1,Intellectual Property Law,Bindu Chib,40,2.5,6,compulsory
+1,Software Engineer,Ling Ma,48,4,6,compulsory
+1,Logistics and Supply Chain Management,Bing Han,40,2.5,6,compulsory
+1,Mobile Internet,Dongyu Wang,32,2,6,optional
+1,Badminton,Haoran Dong,32,1,6,optional
+1,Personal Development Plan 3,Gokop Goteng,4,0.3,6,compulsory
+2,Cybersecurity,Michaela Macdonald,40,2.5,6,compulsory
+2,Intellectual Property Law,Bindu Chib,40,2.5,6,compulsory
+2,Software Engineer,Ling Ma,48,4,6,compulsory
+2,Logistics and Supply Chain Management,Bing Han,40,2.5,6,compulsory
+2,Mobile Internet,Dongyu Wang,32,2,6,optional
+2,Volleyball,Juan Du,32,1,6,optional
+2,Personal Development Plan 3,Gokop Goteng,4,0.3,6,compulsory
+1,Advanced Mathematics 2,Ting Mei,80,5,2,compulsory
+1,College English 2,Yi An,64,4,2,compulsory
+1,College Physics,Guangsheng Jin,64,4,2,compulsory
+1,Fundamentals of Circuit,Dong Liang,48,3,2,compulsory
+1,C Programming language,Jinglin Li,48,3,2,compulsory
+1,Xi Jinping Thought,Mei Yuan,32,2,2,compulsory
+1,Physical Experiment,Lu Li,24,1.5,2,compulsory
+1,Intermediate reading and Writing,Shanshan Wang,32,2,2,optional
+2,Advanced Mathematics 2,Ting Mei,80,5,2,compulsory
+2,College English 2,Yi An,64,4,2,compulsory
+2,College Physics,Guangsheng Jin,64,4,2,compulsory
+2,Fundamentals of Circuit,Dong Liang,48,3,2,compulsory
+2,C Programming language,Jinglin Li,48,3,2,compulsory
+2,Xi Jinping Thought,Mei Yuan,32,2,2,compulsory
+2,Physical Experiment,Lu Li,24,1.5,2,compulsory
+2,Western Economics,Hua Yuan,32,2,2,optional
+1,College Computer,Hui Gao,32,2,1,compulsory
+1,Linear Algebra,Juan Yang,48,3,1,compulsory
+1,Thought Morals Accomplishment and Law Foundation,Jing Zhang,48,3,1,compulsory
+1,Advanced Mathematics 1,Ting Mei,80,5,1,compulsory
+1,Mental Health for College Students,Qiuhong Chen,8,0.5,1,compulsory
+1,Situation and Policy Education 1,Jing Zhang,6,0.4,1,compulsory
+1,Appreciation of Foreign Literature,Kuizhan Yu,32,2,1,optional
+1,Comprehensive English,Jing Chen,96,6,1,compulsory
+1,Personal Development Plan 1,Bindu Chib/James Robert Kelly,4,0.3,1,compulsory
+2,College Computer,Hui Gao,32,2,1,compulsory
+2,Linear Algebra,Juan Yang,48,3,1,compulsory
+2,Thought Morals Accomplishment and Law Foundation,Jing Zhang,48,3,1,compulsory
+2,Advanced Mathematics 1,Ting Mei,80,5,1,compulsory
+2,Mental Health for College Students,Qiuhong Chen,8,0.5,1,compulsory
+2,Situation and Policy Education 1,Jing Zhang,6,0.4,1,compulsory
+2,Appreciation of Foreign Literature,Kuizhan Yu,32,2,1,optional
+2,Comprehensive English,Jing Chen,96,6,1,compulsory
+2,Personal Development Plan 1,Bindu Chib/James Robert Kelly,4,0.3,1,compulsory
+1,Engineering Mathematics,Huixia Mo,64,4,3,compulsory
+1,Discrete Computing Techniques,Zhongzheng Tang,64,4,3,compulsory
+1,Signals and Systems,Li Li,48,3,3,compulsory
+1,Business Management,Bing Han,40,2.5,3,compulsory
+1,Introduction to E-commerce,Xia Cheng,32,2,3,compulsory
+1,Academic Communication Skills 1,Jing Chen,32,2,3,compulsory
+1,Personal Development Plan 2,Bindu Chib/James Robert Kelly,4,0.3,3,compulsory
+1,Step into the Forbidden City,Yu Qin,28,2,3,optional
+1,Computer Internship,Jing Li,32,2,3,compulsory
+2,Engineering Mathematics,Huixia Mo,64,4,3,compulsory
+2,Discrete Computing Techniques,Zhongzheng Tang,64,4,3,compulsory
+2,Signals and Systems,Li Li,48,3,3,compulsory
+2,Business Management,Bing Han,40,2.5,3,compulsory
+2,Introduction to E-commerce,Xia Cheng,32,2,3,compulsory
+2,Academic Communication Skills 1,Jing Chen,32,2,3,compulsory
+2,Personal Development Plan 2,Bindu Chib James Robert Kelly,4,0.3,3,compulsory
+2,Step into the Forbidden City,Yu Qin,28,2,3,optional
+2,Computer Internship,Jing Li,32,2,3,compulsory
+1,Operations Research,Na Liu,48,3,5,optional
+1,Online Finance,Zichun Yan,32,2,5,optional
+1,Data Mining,Yang Yang,32,3,5,compulsory
+1,Introduction to Information Network Law,Congcong Cui,32,2,5,optional
+1,Internet Protocol,Richard Clegg Vindya Wijeratne,48,3,5,compulsory
+1,Personal Development Plan 3,Bindu Chib Gokop Goteng,4,0.3,5,compulsory
+1,Telecommunication System,Yuanwei Liu/YAN SUN,40,2.5,5,compulsory
+1,Advanced Network Programming,Paula Fonseca/Luca ROSSI,56,3.5,5,compulsory
+1,Electronic Commerce Law,Bindu Chib,40,2.5,5,compulsory
+2,Operations Research,Na Liu,48,3,5,optional
+2,Data Mining,Yang Yang,32,3,5,compulsory
+2,Introduction to Information Network Law,Congcong Cui,32,2,5,optional
+2,Internet Protocol,Richard Clegg/Vindya Wijeratne,48,3,5,compulsory
+2,Personal Development Plan 3,Bindu Chib/Gokop Goteng,4,0.3,5,compulsory
+2,Telecommunication System,Yuanwei Liu/YAN SUN,40,2.5,5,compulsory
+2,Advanced Network Programming,Paula Fonseca/Luca ROSSI,56,3.5,5,compulsory
+2,Electronic Commerce Law,Bindu Chib,40,2.5,5,compulsory
